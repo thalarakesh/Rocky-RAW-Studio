@@ -1,0 +1,10 @@
+If you see: 'py' is not recognized
+
+1. Download Python 3.10+ for Windows from https://www.python.org/downloads/windows/
+2. Run installer and CHECK "Add python.exe to PATH" before installing.
+3. Close/reopen Command Prompt. Run: python --version
+4. For immediate software launch: double-click START_ROCKY_STUDIO.bat
+5. For EXE build: double-click BUILD_WINDOWS_EXE.bat
+6. Output executable: dist\Rocky_RAW_Studio.exe
+
+Build requires internet to install dependencies; startup only uses standard Python modules.
